@@ -1,8 +1,9 @@
 # servogripper
 
+Compact MG996R servo gripper.
+
 ![servogripper](gripper.png)
 
-Compact MG996R servo gripper.
 
 This design is heavily inspired by the AR4 Servo Gripper by Annin Robotics:  
 https://anninrobotics.com/wp-content/uploads/2025/07/AR4-Servo-Gripper-Manual.pdf
