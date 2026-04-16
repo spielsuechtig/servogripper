@@ -25,7 +25,8 @@ However, the bottom part can be modified easily to add whatever mounting pattern
 - 2x 3 mm x 72 mm steel rods  
   Used for the top part with the jaws.
 - 1x 3 mm x 15 mm steel rod  
-  Used for the gear connection. Since this size may be hard to find, it is easiest to buy a 3 mm x 200 mm rod and cut it to length.
+  Used for the gear connection.
+  Since this sizes may be hard to find, it is easiest to buy a 3 mm x 200 mm rod and cut it to length.
 - Super glue  
   Used to secure the rods in the top part.
 - 3 mm drill bit  
