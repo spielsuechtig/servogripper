@@ -8,7 +8,7 @@ Compact MG996R servo gripper.
 This design is heavily inspired by the AR4 Servo Gripper by Annin Robotics:  
 https://anninrobotics.com/wp-content/uploads/2025/07/AR4-Servo-Gripper-Manual.pdf
 
-The original design was a bit oversized for my use case, mainly because it was intended for a 25 kg servo, which felt like overkill.  
+The original design was a bit overkill for my use case, mainly because it was intended for a 25 kg servo.
 This version was adapted to use an MG996R instead, along with a few smaller design changes to better fit a more compact setup.
 
 At the moment, there is no finalized mounting solution for rotation included. The bottom part has two holes on each side for heat-set inserts.  
@@ -37,3 +37,4 @@ However, the bottom part can be modified easily to add whatever mounting pattern
 
 - The screws are not included in the CAD model because I was too lazy to add them.
 - For detailed instructions, please see the linked AR4 Servo Gripper manual.
+- Do not tighten the rail screws too much, otherwise the gear may not rotate freely.
